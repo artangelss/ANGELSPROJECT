@@ -1,7 +1,7 @@
 # ANGELSPROJECT
 
 HEY NANA REMEMBER THE FIRST TIME WE MEET?
-<h1>Hi, I'm Angel, an <a href="https://linkedin.com/in/Josh">aspiring IT student</a>☺</h1>
+<h1>Hi, I'm Angel, an <a href="https://linkedin.com/in/lovelyartangels">aspiring IT student</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
