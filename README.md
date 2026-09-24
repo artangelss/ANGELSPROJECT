@@ -10,7 +10,7 @@ HEY NANA REMEMBER THE FIRST TIME WE MEET?
  
     
 - <b>Microsoft Azure</b>
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ANGELSPROJECT/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/artangelss/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
