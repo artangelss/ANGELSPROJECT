@@ -20,6 +20,6 @@ HEY NANA REMEMBER THE FIRST TIME WE MEET?
 
 
 
-[linkedin]: www.linkedin.com/in/lovelyartangels
+[linkedin]: www.linkedin.com/in/lovelyartangels/
 
 
