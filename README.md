@@ -18,6 +18,6 @@ HEY NANA REMEMBER THE FIRST TIME WE MEET?
 [<img align="left" alt="Angel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[linkedin]: http.linkedin.com/in/lovelyartangels
+[linkedin]: https://linkedin.com/in/lovelyartangels
 
 
