@@ -1,6 +1,8 @@
 # ANGELSPROJECT
 
 'Trapnest'a motherly nest that comes with a trap. 
+
+still working on my projects and building my portfolio please give soooome timeeeee pleaseeeeeeeeeeeeeeee 
 <h1>Hi, I'm Angel, an <a href="https://linkedin.com/in/lovelyartangels">aspiring IT student</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
