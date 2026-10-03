@@ -16,6 +16,9 @@ still working on my projects and building my portfolio please give soooome timee
  
 
 <h2>👨‍💻  University  Projects:</h2>
+ -<b>Class project(Restaurant website HTML)</b>
+   -[Class project](https://github.com/artangelss/HTML-FIRST-School-project-creating-a-website-)
+   
 
   
 
